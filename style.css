@@ -1,0 +1,34 @@
+html, body {
+    position:fixed;
+    top: 10px;;
+    bottom:0;
+    left:0;
+    right:0;
+    margin: 5% 0 0 5%;
+}
+img{
+    margin: 1px;
+    padding: 1px;
+    max-width: 70%x;
+    max-height: 230px;
+}
+.tekst{
+    padding: 5%;
+    font-size: medium;
+    max-width: 500px;
+    letter-spacing: 2px;
+}
+.tekst h1{
+    color: #0077b6;
+    font-weight: 700;
+}
+.tekst span{
+    color: #a5a58d;
+    font-weight: 600;
+}
+button{
+    width: 60px;
+    height: 60px;
+    margin: 5% 0 0 60%;
+}
+
